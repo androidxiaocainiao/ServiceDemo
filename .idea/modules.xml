@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ServiceDemo.iml" filepath="$PROJECT_DIR$/ServiceDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bangdingshi/bangdingshi.iml" filepath="$PROJECT_DIR$/bangdingshi/bangdingshi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yinyuebofangqi/yinyuebofangqi.iml" filepath="$PROJECT_DIR$/yinyuebofangqi/yinyuebofangqi.iml" />
+    </modules>
+  </component>
+</project>
